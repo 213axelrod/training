@@ -1,7 +1,7 @@
 name: null
 channels:
  - conda-forge
- - pip
  - defaults
 dependencies:
-- jupyterlab-rise
+- pip:
+    - jupyterlab-rise
